@@ -12,6 +12,16 @@
         <link href='css/fonts.css' rel='stylesheet' type='text/css'>
         <link rel="stylesheet" href="css/bootstrap.min.css">
         <link rel="stylesheet" type="text/css" href="css/style.css">
+        <style>
+            .always-bottom{
+              position: absolute;
+              right: 0;
+              bottom: 0;
+              left: 0;
+              padding: 1rem;
+              text-align: center;
+            }
+        </style>
     </head>
      
    <body ng-controller="mainController as mainCtrl">
@@ -50,7 +60,7 @@
                  </div>
             </div>             
         </div>
-        <footer class="container-fluid">
+        <footer class="container-fluid always-bottom">
             <div style="text-align:left;float:left">ADOP CDC DevOps Platform</div>
 			<div style="text-align:right;float:right"><a style="text-decoration:none;color:#F5F5F5" href="mailto:DevOps.CDC@accenture.com">Contact us</a></div>
         </footer>
