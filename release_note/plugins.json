@@ -1,0 +1,26 @@
+{
+        "core" : [
+            {
+                "type": "Tool Links",
+                "components" : [
+                    {
+                        "id": "jenkins",
+                        "title": "jenkins",
+                        "img": "img/jenkins.png",
+                        "description": "Continuous Integration & Automation Server",
+                        "link": "http://jenkins.adopcdc.com"
+                    },
+                    {
+                        "id": "sonar",
+                        "title": "sonar",
+                        "img": "img/sonar.png",
+                        "description": "Static Code Analysis",
+                        "link": "http://sonar.adopcdc.com"
+                    }
+                ]
+            }
+        ],
+        "blueprints": [
+            {"url": "bp/demo-release-note.html"}
+        ]
+    }
