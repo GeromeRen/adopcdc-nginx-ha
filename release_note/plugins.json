@@ -3,19 +3,33 @@
             {
                 "type": "Tool Links",
                 "components" : [
-                    {
+{
                         "id": "jenkins",
                         "title": "jenkins",
                         "img": "img/jenkins.png",
                         "description": "Continuous Integration & Automation Server",
-                        "link": "http://jenkins.adopcdc.com"
+                        "link": "/jenkins/"
+                    },
+                    {
+                        "id": "bitbucket",
+                        "title": "bitbucket",
+                        "img": "img/bitbucket.png",
+                        "description": "Code, Manage, Collaborate",
+                        "link": "/bitbucket/"
                     },
                     {
                         "id": "sonar",
                         "title": "sonar",
                         "img": "img/sonar.png",
                         "description": "Static Code Analysis",
-                        "link": "http://sonar.adopcdc.com"
+                        "link": "/sonar/"
+                    },
+                    {
+                        "id": "nexus",
+                        "title": "nexus",
+                        "img": "img/nexus.png",
+                        "description": "Software Repository Manager",
+                        "link": "/nexus/"
                     }
                 ]
             }
