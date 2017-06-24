@@ -18,11 +18,11 @@
                         "link": "/bitbucket/"
                     },
                     {
-                        "id": "sonar",
-                        "title": "sonar",
-                        "img": "img/sonar.png",
+                        "id": "jira",
+                        "title": "jira",
+                        "img": "img/jira.png",
                         "description": "Plan, Track, and Release Great Software",
-                        "link": "/sonar/"
+                        "link": "/jira/"
                     },
                     {
                         "id": "sonar",
