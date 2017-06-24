@@ -21,6 +21,13 @@
                         "id": "sonar",
                         "title": "sonar",
                         "img": "img/sonar.png",
+                        "description": "Plan, Track, and Release Great Software",
+                        "link": "/sonar/"
+                    },
+                    {
+                        "id": "sonar",
+                        "title": "sonar",
+                        "img": "img/sonar.png",
                         "description": "Static Code Analysis",
                         "link": "/sonar/"
                     },
