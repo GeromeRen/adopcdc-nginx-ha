@@ -35,7 +35,7 @@
                         "id": "harbor",
                         "title": "harbor",
                         "img": "img/harbor.png",
-                        "description": "Secure enterprise-class docker registry server",
+                        "description": "Secure Enterprise-class Docker Registry Server",
                         "link": "",
                         "linkCreate": {
                             "host": "https://harbor.adopcdc.com",
