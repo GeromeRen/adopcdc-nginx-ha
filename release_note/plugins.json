@@ -30,6 +30,17 @@
                         "img": "img/nexus.png",
                         "description": "Software Repository Manager",
                         "link": "/nexus/"
+                    },
+                    {
+                        "id": "harbor",
+                        "title": "harbor",
+                        "img": "img/harbor.png",
+                        "description": "Secure enterprise-class docker registry server",
+                        "link": "",
+                        "linkCreate": {
+                            "host": "https://harbor.adopcdc.com",
+                            "endPath": ""
+                        }
                     }
                 ]
             }
