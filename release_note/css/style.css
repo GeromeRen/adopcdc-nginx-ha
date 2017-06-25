@@ -73,7 +73,7 @@ a {
 
 #header {
   position: relative;
-  height: 200px;
+  height: 170px;
   overflow: hidden;
   background-color: #026002; }
   #header .header-cover {
@@ -87,7 +87,7 @@ a {
       left: 0px;
       top: 0px;
       height: 100%;
-      padding: 2% 8% 2% 4%;
+      padding: 1% 8% 2% 4%;
       background-image: url("../img/cover2.png");
       background-repeat: no-repeat;
       background-position-x: right;
